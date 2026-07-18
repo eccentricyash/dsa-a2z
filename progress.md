@@ -1,7 +1,7 @@
 # Striver A2Z — 30-Day Progress
 
 **Start date:** 2026-07-18 (Day 1)
-**Problems solved:** 36/474 (35 prior credit + 1 verified)
+**Problems solved:** 37/474 (35 prior credit + 2 verified)
 **Current topic:** Step 1 — Basics. Teaching phase DONE (divisors √n, primality, hashing, Euclid GCD). Problem-solving phase starting Day 2.
 **Pace status:** ⚠️ TIGHT — Basics+Sorting due end of Day 2; Day 1 went entirely to teaching (needed — baseline was weaker than self-reported). Day 2 must cover Step 1 problem sweep + Sorting.
 
@@ -15,6 +15,7 @@ Basics+Sorting D2 · Arrays D5 · Binary Search D7 · Strings D8 · Linked List 
 ### Step 1 — Basics (36 solved)
 - ◽ PRIOR CREDIT, unverified (D2): Things to Know 9, Build-up Logical Thinking 2, Patterns 22, STL 2 = 35 problems. Solved before mentorship started; no flags. If warm-ups expose gaps here, problems return to the queue.
 - 🟢 Count all digits of a number (D2)
+- 🟡 Reverse a number / LC #7 with overflow (D2) — overflow guard was new; inequality-direction bug
 - Remaining: Basic Maths 6 (reverse, palindrome, armstrong[skip-D], divisors, prime, gcd), basic recursion ~5, basic hashing ~2
 
 ## Session log
