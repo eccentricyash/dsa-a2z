@@ -1,7 +1,7 @@
 # Striver A2Z — 30-Day Progress
 
 **Start date:** 2026-07-18 (Day 1)
-**Problems solved:** 40/474 (35 prior credit + 5 verified)
+**Problems solved:** 41/474 (35 prior credit + 6 verified)
 **Current topic:** Step 1 — Basics. Teaching phase DONE (divisors √n, primality, hashing, Euclid GCD). Problem-solving phase starting Day 2.
 **Pace status:** ⚠️ TIGHT — Basics+Sorting due end of Day 2; Day 1 went entirely to teaching (needed — baseline was weaker than self-reported). Day 2 must cover Step 1 problem sweep + Sorting.
 
@@ -19,6 +19,7 @@ Basics+Sorting D2 · Arrays D5 · Binary Search D7 · Strings D8 · Linked List 
 - 🟡 Palindrome number / LC #9 (D2) — negatives-as-text was new; skipped the long long fix once
 - 🟢 GCD of two numbers (D2) — solo Euclid
 - 🟡 Print divisors (D2) — brace scope + boundary `<=` bugs, both self-found from evidence
+- 🟡 Check prime (D2) — repeated the `<=` boundary bug on n=4
 - Remaining: Basic Maths 6 (reverse, palindrome, armstrong[skip-D], divisors, prime, gcd), basic recursion ~5, basic hashing ~2
 
 ## Session log
